@@ -4,7 +4,7 @@ zuul:
   routes:
     agency:
       path: /agency/**
-      serviceId: agency
+      serviceId: AGENCY
 
 eureka:
   client:
